@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280mm"
+   height="880mm"
+   viewBox="0 0 4535.4331 3118.1103"
+   id="svg4240"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="sapin_noel_etape_8.svg">
+  <title
+     id="title4788">Découpage Laser</title>
+  <defs
+     id="defs4242" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71768227"
+     inkscape:cx="934.11652"
+     inkscape:cy="673.50792"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1954"
+     inkscape:window-height="2004"
+     inkscape:window-x="143"
+     inkscape:window-y="240"
+     inkscape:window-maximized="0"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3735" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4245">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Découpage Laser</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Fablab Lannion</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>http://fablab-lannion.org:8080/wiki/index.php?title=Chaine_logiciel_pour_d%C3%A9coupeuse_laser#Inkscape</dc:source>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>JJL</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2065.7481)">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.59127808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 566.92969 2078.7402 C 530.01824 2207.5769 482.46275 2238.8409 434.64648 2267.7168 C 450.43644 2301.2194 477.78487 2309.0346 510.23633 2305.5117 C 484.34646 2413.543 421.64607 2460.2219 340.1582 2475.5898 C 357.91445 2524.1104 393.09 2546.8795 453.54297 2532.2832 C 397.36021 2677.6991 325.96602 2749.3941 245.66992 2777.9531 C 269.06914 2820.7299 306.44964 2847.3746 377.95312 2834.6465 C 333.49952 2962.4819 274.23112 3048.567 188.97656 3061.418 C 251.56791 3167.9787 426.52136 3125.5936 561.25977 3136.5176 L 561.25977 2607.875 L 572.59766 2607.875 L 572.59766 3136.5195 C 707.33634 3125.595 882.29114 3167.9792 944.88281 3061.418 C 859.62825 3048.567 800.35986 2962.482 755.90625 2834.6465 C 827.40973 2847.3747 864.79023 2820.73 888.18945 2777.9531 C 807.89337 2749.3941 736.4972 2677.6991 680.31445 2532.2832 C 740.76741 2546.8795 775.94494 2524.1104 793.70117 2475.5898 C 712.21331 2460.2218 649.51097 2413.543 623.62109 2305.5117 C 656.07256 2309.0346 683.42295 2301.2194 699.21289 2267.7168 C 651.39662 2238.841 603.84112 2207.5769 566.92969 2078.7402 z "
+       id="path3739"
+       transform="matrix(0.93750002,0,0,0.93750002,0,-2065.7481)" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.59127808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1430.5508 2097.502 C 1394.5072 2210.7148 1349.3405 2240.2982 1303.9375 2267.7168 C 1319.7274 2301.2194 1347.0759 2309.0346 1379.5273 2305.5117 C 1353.6375 2413.5431 1290.9371 2460.222 1209.4492 2475.5898 C 1227.2055 2524.1105 1262.3811 2546.8795 1322.834 2532.2832 C 1266.6513 2677.6991 1195.257 2749.3942 1114.9609 2777.9531 C 1138.3602 2820.73 1175.7407 2847.3746 1247.2441 2834.6465 C 1202.7906 2962.4819 1143.5222 3048.567 1058.2676 3061.418 C 1121.7402 3169.479 1300.7643 3124.3671 1436.2207 3137.0078 C 1571.677 3124.3671 1750.7012 3169.479 1814.1738 3061.418 C 1728.9193 3048.567 1669.6509 2962.482 1625.1973 2834.6465 C 1696.7007 2847.3747 1734.0812 2820.7301 1757.4805 2777.9531 C 1677.1844 2749.3942 1605.7882 2677.6991 1549.6055 2532.2832 C 1610.0584 2546.8795 1645.236 2524.1105 1662.9922 2475.5898 C 1581.5044 2460.2218 1518.8019 2413.5431 1492.9121 2305.5117 C 1525.3635 2309.0346 1552.7139 2301.2194 1568.5039 2267.7168 C 1523.1008 2240.2983 1477.9342 2210.7148 1441.8906 2097.502 L 1441.8906 2607.873 L 1430.5508 2607.873 L 1430.5508 2097.502 z "
+       id="path3739-6"
+       transform="matrix(0.93750002,0,0,0.93750002,0,-2065.7481)" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.9375"
+       id="path54"
+       cx="453.04346"
+       cy="66.467415"
+       r="12.401575" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-6"
+       cx="605.47577"
+       cy="54.781982"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-2"
+       cx="380.09656"
+       cy="274.61911"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-9"
+       cx="684.45087"
+       cy="266.30594"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-1"
+       cx="478.93085"
+       cy="226.12563"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-27"
+       cx="576.84149"
+       cy="191.02557"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-0"
+       cx="586.07843"
+       cy="372.52975"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-93"
+       cx="750.03253"
+       cy="548.02997"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-60"
+       cx="619.33105"
+       cy="560.0379"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-62"
+       cx="299.7359"
+       cy="545.25891"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-61"
+       cx="450.29663"
+       cy="456.12329"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-8"
+       cx="411.96368"
+       cy="617.3064"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-7"
+       cx="240.62004"
+       cy="808.97107"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-92"
+       cx="783.74707"
+       cy="818.6698"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-02"
+       cx="671.05743"
+       cy="744.31311"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-3"
+       cx="435.05582"
+       cy="825.59741"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-75"
+       cx="1261.7543"
+       cy="65.866211"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-922"
+       cx="1409.5438"
+       cy="47.85434"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-89"
+       cx="1503.2979"
+       cy="279.23752"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-73"
+       cx="1189.7068"
+       cy="266.30594"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-612"
+       cx="1287.6174"
+       cy="226.12563"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-931"
+       cx="1398.9215"
+       cy="301.40598"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-94"
+       cx="1263.1398"
+       cy="405.32059"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-78"
+       cx="1460.3466"
+       cy="443.65353"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-4"
+       cx="1596.5902"
+       cy="546.64447"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-5"
+       cx="1117.1975"
+       cy="560.96161"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-03"
+       cx="1222.4977"
+       cy="531.86548"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-610"
+       cx="1394.3031"
+       cy="518.9339"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-63"
+       cx="1494.3939"
+       cy="663.08826"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-20"
+       cx="1072.4628"
+       cy="801.55481"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-615"
+       cx="1605.4285"
+       cy="837.47778"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-54"
+       cx="1428.7241"
+       cy="773.52399"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-56"
+       cx="1280.835"
+       cy="668.19006"
+       r="12.401574" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.93749994"
+       id="path54-937"
+       cx="1219.4666"
+       cy="822.50977"
+       r="12.401574" />
+  </g>
+</svg>
