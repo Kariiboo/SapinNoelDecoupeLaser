@@ -76,6 +76,7 @@ Pour résumer, il y a trois étapes :
 3. [LaserWork](https://wiki.fablab-lannion.org/index.php?title=Chaine_logicielle_pour_d%C3%A9coupeuse_laser#LaserWork), la découpe laser avec le logiciel RDWorks.
 
 Et voilà !
+
 ![sapin_noel_et_deco](Pictures/sapin_noel_et_deco.jpg)
 
 ## Bibliographie
