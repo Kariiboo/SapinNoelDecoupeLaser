@@ -43,17 +43,17 @@ _**Note**: Le modèle est sauvegardé dans un fichier différent à chaque étap
 1. Dans le logiciel Inkscape, créer un nouveau fichier à partir du template `laser template` (Menu Fichier->Nouveau à partir du template), afin d'avoir les limites de la zone de travail de la découpeuse laser [Keyland KQG1390](https://wiki.fablab-lannion.org/index.php?title=D%C3%A9coupeuses_Laser_Keyland#.22Grosse.22_Machine_:_KQG1390) (1280 x 880 mm)
 2. On se place dans le coin inférieur gauche, coordonnées (0, 0) dans Inkscape, afin de profiter des règles horizontale et verticale pour mesurer le modèle. Activer la grille (Menu Affichage->Grille). Choisir la couleur rouge pour le contour (click-droit sur la couleur rouge de la palette en bas, puis 'Définir le fond') (Pas obligatoire ici, mais il faudra le faire à l'étape 'Creation')
 3. Dessiner grossièrement la partie gauche du sapin avec l'outil "Courbe de Bézier" ([sapin_noel_etape_3.svg](./sapin_noel_etape_3.svg))
-4.  Désactiver la grille (à cause de l'effet magnétique des points de la grille) et ajuster les segments à l'aide des poignées des points de Bézier afin de donner le fameux aspect "sapin neigeux" ([sapin_noel_etape_4.svg](./sapin_noel_etape_4.svg))
+4. Désactiver la grille (à cause de l'effet magnétique des points de la grille) et ajuster les segments à l'aide des poignées des points de Bézier afin de donner le fameux aspect "sapin neigeux" ([sapin_noel_etape_4.svg](./sapin_noel_etape_4.svg))
 5. Sélectionner le demi-sapin. Copier (ctrl+c). Coller (ctrl+v). Symétrie horizontale (H). Puis placer ce demi-sapin en faisant coïncider les points "sommet du sapin". Sélectionner les deux demi-sapins (clic sur l'un puis shift-clic sur l'autre) et les unir (Menu Chemin->Union) ([sapin_noel_etape_5.svg](./sapin_noel_etape_5.svg))
 6. Dupliquer le sapin (il en faut deux)
 7. Placer les encoches. Afficher la grille. /!\ La largeur de l'encoche doit correspondre à l'épaisseur du panneau, ici 3 mm (ça rentre, mais il faut forcer un peu au montage/démontage)
     1. Sur chaque sapin: créer un rectangle représentant l'encoche et le placer sur l'axe de symétrie du sapin, à partir du milieu de la hauteur du sapin et jusqu'en haut pour l'un, et jusqu'en bas pour l'autre. Note: une fois un rectangle créé, on peut ajuster ses dimensions et sa position dans le bandeau du haut (X, Y, L, H) ([sapin_noel_etape_7.1.svg](./sapin_noel_etape_7.1.svg))
     2. Pour chaque sapin, sélectionner le sapin et son rectangle encoche et retirer l'encoche du sapin (Menu Chemin->Difference) ([sapin_noel_etape_7.2.svg](./sapin_noel_etape_7.2.svg))
     3. Vérification de placement des encoches: Sélectionner l'un des sapin et le positionner sur l'autre. Les encoches doivent être dans la continuité l'une de l'autre. Leur largeur doit correspondre à l'épaisseur du panneau, ici 3 mm
-8.  Ajouter la décoration du sapin
+8. Ajouter la décoration du sapin
     1. des boules (outil Cercle sur le bandeau de gauche), des étoiles (outil Etoile sur le bandeau de gauche), etc... dont les contours seront alors découpés.([sapin_noel_etape_8.svg](./sapin_noel_etape_8.svg))
     2. placer une étoile au sommet du sapin dont l'encoche est en bas. Intégrer l'étoile au sapin (sélectionner les deux éléments et les unir) ([sapin_noel_etape_8.2.svg](./sapin_noel_etape_8.2.svg))
-9.  Optimisation de la surface de panneau
+9. Optimisation de la surface de panneau
     1. pour chaque sapin, sélectionner le sapin et ses décorations puis click-droit->Group. Ils seront plus facile à déplacer
     2. sélectionner l'un des sapins et le placer en haut à gauche. Laisser un peu de marge par rapport au bord.
     3. sélectionner l'autre sapin, le renverser (Menu Object->Rotate 90%, deux fois), puis le placer plus près de l'autre sapin, en laissant un peu de marge aussi
@@ -78,6 +78,8 @@ Pour résumer, il y a trois étapes :
 Et voilà !
 
 ![sapin_noel_et_deco](Pictures/sapin_noel_et_deco.jpg)
+
+Réalisé au FabLab de Lannion: https://wiki.fablab-lannion.org//index.php?title=Petit_sapin_de_No%C3%ABl_et_sa_d%C3%A9co 
 
 ## Bibliographie
 
